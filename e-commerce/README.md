@@ -12,7 +12,7 @@ DSDcart is a full-stack e-commerce application built using the MERN stack (Mongo
 
 ### Frontend  
 - React.js  
-- Axios  
+ 
 
 ### Tools  
 - **Thunder Client**: API testing  
